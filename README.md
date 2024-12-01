@@ -13,7 +13,8 @@
 
   <h3 align="center">Redefine Gaming</h3>
   
- <a href="https://redefine-gamings.vercel.app/" target="_blank"><strong>➥ Live Demo</strong></a>
+ <a href="https://redefine-gamings.vercel.app" target="_blank"><strong>➥ Live Demo</strong></a> <br>
+ <a href="https://zentry.com" target="_blank"><strong>➥ Original Website</strong></a>
    <div align="center">
      Build this project step by step with detail
     </div>
